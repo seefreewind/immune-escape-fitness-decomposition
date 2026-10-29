@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23759208.svg)](https://doi.org/10.5281/zenodo.23759208)
+
 # Calibration of pooled CRISPR screens — v1.0.1
 
 This package accompanies **Model-conditional inference separates robust conditional fitness from biological evidence in tumor–immune CRISPR screens**. It links screen fidelity, empirical-null inference, held-out calibration and coherent spike recovery to guide/culture robustness and evidence classification. The statistical runner implements the frozen six-culture Lawson contrasts. General workflow concepts can be adapted to other assays; such adaptations require a new design and qualification plan.
@@ -51,6 +53,6 @@ The full command is computationally intensive (1,160 complete genome-wide model 
 
 ## Archive and citation
 
-Zenodo preservation is enabled through the GitHub integration before the first release. Use the DOI issued for the archived v1.0.1 snapshot once available. CITATION.cff and .zenodo.json provide creator and version metadata. This release preserves the documented partial reproduction scope; it does not claim a fresh full 1,160-simulation or end-to-end external-data reproduction.
+Zenodo preservation is enabled through the GitHub integration before the first release. Archived v1.0.1 DOI: https://doi.org/10.5281/zenodo.23759208. CITATION.cff and .zenodo.json provide creator and version metadata. This release preserves the documented partial reproduction scope; it does not claim a fresh full 1,160-simulation or end-to-end external-data reproduction.
 
 `08_statistical_audit/` includes the frozen finite-reference/BH and common-grid diagnostics, fixed-caller comparison, seeds and original staged audit sources. These preserve the inference boundaries accompanying the main results.
