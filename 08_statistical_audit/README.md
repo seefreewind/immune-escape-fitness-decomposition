@@ -1,0 +1,3 @@
+# Frozen statistical audit
+
+Finite-P resolution, BH boundaries, common-grid diagnostics and fixed-caller comparison tables and original audit source. These are unchanged results from the completed statistical audit. Scripts retain original project-relative layout requirements; export_frozen.R and validate_caller.R require the archived generator states and source count inputs and are not standalone scripts. Large training/simulation matrices are not redistributed. Seeds and summaries are included. Main statistical reproduction instructions are in the root README. No new scientific computations were performed for deposition.

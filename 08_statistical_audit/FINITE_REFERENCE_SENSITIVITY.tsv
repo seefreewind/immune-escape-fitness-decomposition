@@ -1,0 +1,10 @@
+B	stage	screens	mean_BH_discoveries	screens_with_BH_discovery	min_BH_discoveries	max_BH_discoveries	scope
+250	OBSERVED	1	3852.0	1	3852	3852	sensitivity only; first B archived training draws; not replacement inference
+250	HELDOUT	100	0.0	0	0	0	sensitivity only; first B archived training draws; not replacement inference
+250	SPIKE	60	0.0	0	0	0	sensitivity only; first B archived training draws; not replacement inference
+500	OBSERVED	1	3923.0	1	3923	3923	sensitivity only; first B archived training draws; not replacement inference
+500	HELDOUT	100	0.0	0	0	0	sensitivity only; first B archived training draws; not replacement inference
+500	SPIKE	60	451.15	60	427	473	sensitivity only; first B archived training draws; not replacement inference
+1000	OBSERVED	1	3999.0	1	3999	3999	sensitivity only; first B archived training draws; not replacement inference
+1000	HELDOUT	100	0.0	0	0	0	sensitivity only; first B archived training draws; not replacement inference
+1000	SPIKE	60	460.0833333333333	60	436	483	sensitivity only; first B archived training draws; not replacement inference

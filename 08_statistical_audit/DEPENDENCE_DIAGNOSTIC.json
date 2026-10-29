@@ -1,0 +1,11 @@
+{
+  "genes": 1000,
+  "simulation_draws": 100,
+  "selection": "evenly spaced indices of frozen alphabetical gene order",
+  "mean_correlation": -0.00010678124830910022,
+  "median_correlation": -0.00014590983331503568,
+  "q01": -0.23165173458035143,
+  "q99": 0.23220870647557768,
+  "fraction_abs_corr_gt_02": 0.04556956956956957,
+  "interpretation": "descriptive signed-score dependence diagnostic; does not establish BH dependence assumptions"
+}

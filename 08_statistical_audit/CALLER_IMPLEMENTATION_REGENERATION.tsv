@@ -1,0 +1,3 @@
+stage	simulation	same_genes	score_max_error	Bonferroni_minP_max_error	BH_max_error	count_rows	guide_rows	genes	seed
+HELDOUT	1	TRUE	0	0	2.22044604925031e-16	94528	92161	18710	20481020
+SPIKE	1	TRUE	0	0	2.22044604925031e-16	94528	92161	18710	20501020

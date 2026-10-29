@@ -1,7 +1,7 @@
 cff-version: 1.2.0
 message: "Please cite this software and derived-result release and the original data sources."
 title: "Immune escape fitness decomposition: code and derived results"
-version: 1.0.0
+version: 1.0.1
 date-released: 2026-10-29
 url: https://github.com/seefreewind/immune-escape-fitness-decomposition
 license: MIT

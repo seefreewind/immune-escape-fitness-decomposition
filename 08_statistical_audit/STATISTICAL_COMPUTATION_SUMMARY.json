@@ -1,0 +1,286 @@
+{
+  "m": 18710,
+  "training_B": 1000,
+  "P_min": 0.000999000999000999,
+  "first_BH_rank": 187,
+  "null_expected_minP_count": 18.69130869130869,
+  "independent_binomial_minP_ge187_probability": 1.7365426987893977e-116,
+  "observed_minP_n": 1388,
+  "observed_minP_fraction": 0.07418492784607161,
+  "FDR_minP_n": 1388,
+  "observed_BH_n": 3999,
+  "boundary_P": 0.02097902097902098,
+  "boundary_grid_numerator": 21,
+  "training_heldout_spike_seeds_disjoint": true,
+  "observed_P_max_reproduction_error": 5.551115123125783e-16,
+  "observed_Q_max_reproduction_error": 6.661338147750939e-16,
+  "HC_n": 1492,
+  "effect_FDR_n": 2675,
+  "null_minP_count_min": 10,
+  "null_minP_count_max": 29,
+  "all_reference_draws_reused_across_heldout": "shared frozen training bank; heldout random seeds disjoint; generator shared",
+  "common_grid_summary": [
+    {
+      "stage": "HELDOUT",
+      "pipeline": "A_original",
+      "BH_any_fraction": 0.0,
+      "mean_BH_n": 0.0
+    },
+    {
+      "stage": "HELDOUT",
+      "pipeline": "B_original",
+      "BH_any_fraction": 0.56,
+      "mean_BH_n": 1.24
+    },
+    {
+      "stage": "HELDOUT",
+      "pipeline": "B_rounded_up_1001_grid",
+      "BH_any_fraction": 0.0,
+      "mean_BH_n": 0.0
+    },
+    {
+      "stage": "SPIKE",
+      "pipeline": "A_original",
+      "BH_any_fraction": 1.0,
+      "mean_BH_n": 460.0833333333333
+    },
+    {
+      "stage": "SPIKE",
+      "pipeline": "B_original",
+      "BH_any_fraction": 1.0,
+      "mean_BH_n": 374.7
+    },
+    {
+      "stage": "SPIKE",
+      "pipeline": "B_rounded_up_1001_grid",
+      "BH_any_fraction": 1.0,
+      "mean_BH_n": 352.5
+    }
+  ],
+  "sensitivity": [
+    {
+      "B": 250,
+      "stage": "OBSERVED",
+      "screens": 1,
+      "mean_BH_discoveries": 3852.0,
+      "screens_with_BH_discovery": 1,
+      "min_BH_discoveries": 3852,
+      "max_BH_discoveries": 3852,
+      "scope": "sensitivity only; first B archived training draws; not replacement inference"
+    },
+    {
+      "B": 250,
+      "stage": "HELDOUT",
+      "screens": 100,
+      "mean_BH_discoveries": 0.0,
+      "screens_with_BH_discovery": 0,
+      "min_BH_discoveries": 0,
+      "max_BH_discoveries": 0,
+      "scope": "sensitivity only; first B archived training draws; not replacement inference"
+    },
+    {
+      "B": 250,
+      "stage": "SPIKE",
+      "screens": 60,
+      "mean_BH_discoveries": 0.0,
+      "screens_with_BH_discovery": 0,
+      "min_BH_discoveries": 0,
+      "max_BH_discoveries": 0,
+      "scope": "sensitivity only; first B archived training draws; not replacement inference"
+    },
+    {
+      "B": 500,
+      "stage": "OBSERVED",
+      "screens": 1,
+      "mean_BH_discoveries": 3923.0,
+      "screens_with_BH_discovery": 1,
+      "min_BH_discoveries": 3923,
+      "max_BH_discoveries": 3923,
+      "scope": "sensitivity only; first B archived training draws; not replacement inference"
+    },
+    {
+      "B": 500,
+      "stage": "HELDOUT",
+      "screens": 100,
+      "mean_BH_discoveries": 0.0,
+      "screens_with_BH_discovery": 0,
+      "min_BH_discoveries": 0,
+      "max_BH_discoveries": 0,
+      "scope": "sensitivity only; first B archived training draws; not replacement inference"
+    },
+    {
+      "B": 500,
+      "stage": "SPIKE",
+      "screens": 60,
+      "mean_BH_discoveries": 451.15,
+      "screens_with_BH_discovery": 60,
+      "min_BH_discoveries": 427,
+      "max_BH_discoveries": 473,
+      "scope": "sensitivity only; first B archived training draws; not replacement inference"
+    },
+    {
+      "B": 1000,
+      "stage": "OBSERVED",
+      "screens": 1,
+      "mean_BH_discoveries": 3999.0,
+      "screens_with_BH_discovery": 1,
+      "min_BH_discoveries": 3999,
+      "max_BH_discoveries": 3999,
+      "scope": "sensitivity only; first B archived training draws; not replacement inference"
+    },
+    {
+      "B": 1000,
+      "stage": "HELDOUT",
+      "screens": 100,
+      "mean_BH_discoveries": 0.0,
+      "screens_with_BH_discovery": 0,
+      "min_BH_discoveries": 0,
+      "max_BH_discoveries": 0,
+      "scope": "sensitivity only; first B archived training draws; not replacement inference"
+    },
+    {
+      "B": 1000,
+      "stage": "SPIKE",
+      "screens": 60,
+      "mean_BH_discoveries": 460.0833333333333,
+      "screens_with_BH_discovery": 60,
+      "min_BH_discoveries": 436,
+      "max_BH_discoveries": 483,
+      "scope": "sensitivity only; first B archived training draws; not replacement inference"
+    }
+  ],
+  "null_summary": {
+    "simulation": {
+      "count": 100.0,
+      "mean": 50.5,
+      "std": 29.011491975882016,
+      "min": 1.0,
+      "25%": 25.75,
+      "50%": 50.5,
+      "75%": 75.25,
+      "max": 100.0
+    },
+    "p05": {
+      "count": 100.0,
+      "mean": 0.05013789417423837,
+      "std": 0.0016181933073577768,
+      "min": 0.045483698556921436,
+      "25%": 0.049318546231961524,
+      "50%": 0.05021378941742384,
+      "75%": 0.051269374665954034,
+      "max": 0.05387493319080706
+    },
+    "p01": {
+      "count": 100.0,
+      "mean": 0.009987707108498127,
+      "std": 0.0007796001696875355,
+      "min": 0.008123997862105825,
+      "25%": 0.009553714591127738,
+      "50%": 0.009941207910208444,
+      "75%": 0.010382148583645109,
+      "max": 0.012399786210582577
+    },
+    "BH_n": {
+      "count": 100.0,
+      "mean": 0.0,
+      "std": 0.0,
+      "min": 0.0,
+      "25%": 0.0,
+      "50%": 0.0,
+      "75%": 0.0,
+      "max": 0.0
+    },
+    "min_P_n": {
+      "count": 100.0,
+      "mean": 18.4,
+      "std": 4.422166387140534,
+      "min": 10.0,
+      "25%": 15.0,
+      "50%": 18.0,
+      "75%": 21.0,
+      "max": 29.0
+    },
+    "first_BH_rank_needed": {
+      "count": 100.0,
+      "mean": 187.0,
+      "std": 0.0,
+      "min": 187.0,
+      "25%": 187.0,
+      "50%": 187.0,
+      "75%": 187.0,
+      "max": 187.0
+    }
+  },
+  "spike_summary": {
+    "simulation": {
+      "count": 60.0,
+      "mean": 30.5,
+      "std": 17.46424919657298,
+      "min": 1.0,
+      "25%": 15.75,
+      "50%": 30.5,
+      "75%": 45.25,
+      "max": 60.0
+    },
+    "FDP": {
+      "count": 60.0,
+      "mean": 0.0786009308121107,
+      "std": 0.01334687091604543,
+      "min": 0.04035874439461883,
+      "25%": 0.06975245799398341,
+      "50%": 0.0767547550917354,
+      "75%": 0.08556179157037526,
+      "max": 0.12240663900414937
+    },
+    "null_nominal_P05": {
+      "count": 60.0,
+      "mean": 0.05012976256212038,
+      "std": 0.0015888623428285363,
+      "min": 0.04721148536720044,
+      "25%": 0.04890944229707344,
+      "50%": 0.05013804527885146,
+      "75%": 0.05109055770292656,
+      "max": 0.053561568194367755
+    },
+    "null_nominal_P01": {
+      "count": 60.0,
+      "mean": 0.010070863243143751,
+      "std": 0.0007775921673346034,
+      "min": 0.008393152954168967,
+      "25%": 0.009607951408061845,
+      "50%": 0.009994478188845942,
+      "75%": 0.01045002760905577,
+      "max": 0.011871893981225842
+    },
+    "null_minP_n": {
+      "count": 60.0,
+      "mean": 17.85,
+      "std": 5.081788688167429,
+      "min": 6.0,
+      "25%": 14.75,
+      "50%": 18.0,
+      "75%": 20.25,
+      "max": 32.0
+    },
+    "rejections": {
+      "count": 60.0,
+      "mean": 460.0833333333333,
+      "std": 10.203508314344825,
+      "min": 436.0,
+      "25%": 453.75,
+      "50%": 459.5,
+      "75%": 466.5,
+      "max": 483.0
+    },
+    "false_rejections": {
+      "count": 60.0,
+      "mean": 36.25,
+      "std": 6.758861101534082,
+      "min": 18.0,
+      "25%": 32.0,
+      "50%": 35.0,
+      "75%": 40.0,
+      "max": 59.0
+    }
+  }
+}
