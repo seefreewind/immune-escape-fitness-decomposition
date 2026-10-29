@@ -1,0 +1,23 @@
+{
+  "contrast": "mTKO_B16_T17",
+  "counts": "inputs/mTKO_B16_T17.raw.tsv",
+  "samples": [
+    "MUS_103",
+    "MUS_104",
+    "MUS_105",
+    "MUS_112",
+    "MUS_113",
+    "MUS_114"
+  ],
+  "labels": [
+    0,
+    0,
+    0,
+    1,
+    1,
+    1
+  ],
+  "replicate_provenance": "three cultures per condition from shared infection pool",
+  "cores": 3,
+  "rscript": "Rscript"
+}

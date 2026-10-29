@@ -1,0 +1,1 @@
+`audit.py` audits frozen coverage and preserves source roles. Original processing code is archived in `src/10_code/phase2_external.py` and Frangieh source scripts. CPM is never substituted for integer counts and activation is never treated as generic knockout replication.

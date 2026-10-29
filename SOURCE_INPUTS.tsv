@@ -1,0 +1,5 @@
+stage	required_resources	redistributed	regeneration_scope
+primary	Lawson GSE149933 original counts and guide annotation	NO	full statistical runner after six-sample extraction
+ancillary	initial/early Lawson counts; author scores; reference benchmark; exact-label diagnostics	derived flags only	original scripts need original relative stage tree
+reclassification	MGI/HGNC; MSigDB 2025.1.Mm; final published mask and correction freezes	NO raw annotations	original phase2_analysis.py with complete licensed inputs
+external	Frangieh SCP1064; Joung source tables; Yeh author source tables; Akana figshare	derived outputs only	original external/Frangieh scripts with complete input tree

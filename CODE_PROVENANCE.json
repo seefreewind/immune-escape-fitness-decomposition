@@ -1,0 +1,87 @@
+[
+  {
+    "source": "10_code/phase1rr_common.R",
+    "release": "src/10_code/phase1rr_common.R",
+    "sha256": "7ae9784231bf1e58e4f8779969ef8750d8f53012e21eed830df744ed782021bd"
+  },
+  {
+    "source": "10_code/phase1rr_fidelity.R",
+    "release": "src/10_code/phase1rr_fidelity.R",
+    "sha256": "bed5082684b6ecdf5dd37d02c721d467f369dc1e317701b43c2fa946c061ec99"
+  },
+  {
+    "source": "10_code/phase1rr_simulate.R",
+    "release": "src/10_code/phase1rr_simulate.R",
+    "sha256": "72cc85f0ba8c69f229fd592996579b0c80a9eee960b059a84c4c5bfe71fb7fc6"
+  },
+  {
+    "source": "10_code/phase1rr_temporal_omissions.R",
+    "release": "src/10_code/phase1rr_temporal_omissions.R",
+    "sha256": "16a277eb8b946891c79a6afd3acf7a3b312337257690eeefe55fd987af92c301"
+  },
+  {
+    "source": "10_code/phase1rr_exact_labels.R",
+    "release": "src/10_code/phase1rr_exact_labels.R",
+    "sha256": "76647b8f8fec47dc0de41959812918fa98588b8193ef26900ebabb1164a3fbe4"
+  },
+  {
+    "source": "10_code/phase1rr_simulation_validate.R",
+    "release": "src/10_code/phase1rr_simulation_validate.R",
+    "sha256": "bddfdbb4df460898315411a6793c37350a4419b8ab077070d6318e416341ac05"
+  },
+  {
+    "source": "10_code/phase1rr_spike_strata.R",
+    "release": "src/10_code/phase1rr_spike_strata.R",
+    "sha256": "ca17f35a795a12e40c7453242f1c51b0a70b0a6e594827c1f2b7b5de8d9b25d1"
+  },
+  {
+    "source": "10_code/phase1rr_noncore_structure.R",
+    "release": "src/10_code/phase1rr_noncore_structure.R",
+    "sha256": "464d3ee73c0df250671fcac56ae7a33c6286ccc1a2b0515726c22d8d4dc7c1b5"
+  },
+  {
+    "source": "10_code/phase1rr_count_rank.py",
+    "release": "src/10_code/phase1rr_count_rank.py",
+    "sha256": "133f0d5e2fd3cdc86837238445190955f412099fa337810eb909fcff07d6401b"
+  },
+  {
+    "source": "10_code/phase1rr_descriptive.py",
+    "release": "src/10_code/phase1rr_descriptive.py",
+    "sha256": "33bd599324ae09ba126d7ca8b930ed52cf5e6ffc1912290764154653d280a16a"
+  },
+  {
+    "source": "10_code/phase1rr_final_gate.py",
+    "release": "src/10_code/phase1rr_final_gate.py",
+    "sha256": "ba5d68ed1b34feb1d27510afb2e6e5fc9ba26d0fd1ba4ff8e252390d00f0e80a"
+  },
+  {
+    "source": "10_code/phase2_analysis.py",
+    "release": "src/10_code/phase2_analysis.py",
+    "sha256": "9e5ad7087c56ca3f20d88f3899571a9376f8b9c3cccc0a4e08038155a7596d5a"
+  },
+  {
+    "source": "10_code/phase2_external.py",
+    "release": "src/10_code/phase2_external.py",
+    "sha256": "60e77996f78f696d4e3a1d93d3b138f24194b410acf14d5f7aa94e998bc9c046"
+  },
+  {
+    "source": "10_code/phase2_frangieh_programs.py",
+    "release": "src/10_code/phase2_frangieh_programs.py",
+    "sha256": "290a7c44d8c922665ca4c4927a2e469b54e2bcece1cd3e229203b1c8d9679b02"
+  },
+  {
+    "source": "10_code/phase2_frangieh_phenotypes.py",
+    "release": "src/10_code/phase2_frangieh_phenotypes.py",
+    "sha256": "1264e71db2d54313cb8e67d4d02ddc12d082ea48bd9584a018314b15fb25007b"
+  },
+  {
+    "source": "10_code/phase2_prioritize.py",
+    "release": "src/10_code/phase2_prioritize.py",
+    "sha256": "842c4554d51377b32279b65e7ebf6293b1972b95ae947e79988259b466e84168"
+  },
+  {
+    "source": "10_code/phase2_evidence_finalize.py",
+    "release": "src/10_code/phase2_evidence_finalize.py",
+    "sha256": "46d04014ec5ceeb1951f8945f15040304f575b9f46a1d6d47caf1dd44432c72d"
+  }
+]

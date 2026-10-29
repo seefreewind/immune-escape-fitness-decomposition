@@ -1,0 +1,1 @@
+`robustness.R` refits each of six culture omissions and recomputes conditional guide omissions. It retains original guide eligibility and uses the same common R fitter. Ancillary early/baseline/author flags are explicitly frozen inputs in the lightweight reconstruction.

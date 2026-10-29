@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: "Please cite this software and derived-result release and the original data sources."
+title: "Immune escape fitness decomposition: code and derived results"
+version: 1.0.0
+date-released: 2026-10-29
+url: https://github.com/seefreewind/immune-escape-fitness-decomposition
+license: MIT
+authors:
+  - family-names: Zhang
+    given-names: Yu
+  - family-names: Chen
+    given-names: Ying
+  - family-names: Liu
+    given-names: Yue
+  - family-names: Lin
+    given-names: Da
+    orcid: "https://orcid.org/0009-0002-0203-8726"

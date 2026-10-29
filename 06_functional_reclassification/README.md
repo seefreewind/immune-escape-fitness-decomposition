@@ -1,0 +1,1 @@
+`classify.py` reconstructs HC and tiers from rerun statistics/robustness and frozen ancillary evidence. Original graph/enrichment routines are included as `src/10_code/phase2_analysis.py`; they require version-matched licensed annotations and frozen metadata and are not invoked by the lightweight runner.

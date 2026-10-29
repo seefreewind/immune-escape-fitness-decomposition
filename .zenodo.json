@@ -1,0 +1,40 @@
+{
+  "title": "Immune escape fitness decomposition: code and derived results",
+  "description": "Code, tests, configurations and derived numerical outputs for model-conditional inference in tumor–immune CRISPR screens. Frozen results include 1,492 high-confidence records, 1,354 residual records, 10 stable residual modules and Tier A=0. Includes primary statistical runner and staged analysis sources; external ancillary evidence layers are not regenerated from raw data by one command. No third-party raw data or MSigDB memberships are redistributed. Original code: MIT; project-generated numerical tables: CC BY 4.0; upstream materials retain their own terms.",
+  "upload_type": "software",
+  "creators": [
+    {
+      "name": "Zhang, Yu",
+      "affiliation": "Department of Ophthalmology, The Second Affiliated Hospital of Wenzhou Medical University, Wenzhou, China"
+    },
+    {
+      "name": "Chen, Ying",
+      "affiliation": "Wenzhou Medical University, Wenzhou, China"
+    },
+    {
+      "name": "Liu, Yue",
+      "affiliation": "Wenzhou Medical University, Wenzhou, China"
+    },
+    {
+      "name": "Lin, Da",
+      "affiliation": "Department of Ophthalmology, The Second Affiliated Hospital of Wenzhou Medical University, Wenzhou, China",
+      "orcid": "0009-0002-0203-8726"
+    }
+  ],
+  "version": "1.0.0",
+  "license": "MIT",
+  "access_right": "open",
+  "keywords": [
+    "CRISPR screens",
+    "tumor immunity",
+    "conditional fitness",
+    "empirical calibration"
+  ],
+  "related_identifiers": [
+    {
+      "identifier": "https://github.com/seefreewind/immune-escape-fitness-decomposition",
+      "relation": "isSupplementTo",
+      "scheme": "url"
+    }
+  ]
+}

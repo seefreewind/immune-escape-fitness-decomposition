@@ -1,0 +1,1 @@
+Entry point: `run.py full`; scientific source: `src/10_code/phase1rr_fidelity.R` plus `phase1rr_common.R`. Mandatory gates include depth, zero fractions, variance/dispersion profiles and gene residual noise. Failed screens stop before empirical inference.

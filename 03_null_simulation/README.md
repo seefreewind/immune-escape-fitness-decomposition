@@ -1,0 +1,1 @@
+Entry point: `run.py full`; scientific source: `src/10_code/phase1rr_simulate.R`. Fixed 1000/100/60 training/held-out/spike counts and original deterministic seed schedule. Full genome-wide fits; no generic permutation substitute.

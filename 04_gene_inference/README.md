@@ -1,0 +1,1 @@
+`empirical.py` exposes finite-null P/BH for demonstration/tests. Production count fitting and inference use the byte-identical R scripts under `src/10_code`. The guide statistic is sign(log2 fold change) × sqrt(QL F), aggregated by gene median.
